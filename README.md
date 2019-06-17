@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/surajkrishna/pxtorem.svg?branch=master)](https://travis-ci.org/surajkrishna/pxtorem)
+
+[![Coverage Status](https://coveralls.io/repos/github/surajkrishna/pxtorem/badge.svg?branch=master)](https://coveralls.io/github/surajkrishna/pxtorem?branch=master)
+
 # pxtorem
 
 =====================
