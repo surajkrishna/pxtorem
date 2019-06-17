@@ -1,6 +1,6 @@
 {
   "name": "@surajkrishna/pxtorem",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "convert px to rem",
   "main": "index.js",
   "scripts": {
