@@ -6,5 +6,5 @@
  * @return {number}
  */
 module.exports = function(number) {
-  return (parseInt(number) / 16).toFixed(2) + "rem";
+  return number ? (parseInt(number) / 16).toFixed(2) + "rem" : 0;
 };

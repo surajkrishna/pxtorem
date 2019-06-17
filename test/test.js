@@ -13,4 +13,9 @@ describe("#pxtorem", function() {
     var result = pxtorem(24);
     expect(result).to.equal("1.50rem");
   });
+
+  it("should convert empty input to 0", function() {
+    var result = pxtorem("");
+    expect(result).to.equal(0);
+  });
 });
