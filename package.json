@@ -1,0 +1,29 @@
+{
+  "name": "@surajkrishna/pxtorem",
+  "version": "0.1.0",
+  "description": "convert px to rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajkrishna/pxtorem.git"
+  },
+  "keywords": [
+    "pxtorem"
+  ],
+  "author": "Suraj Krishna <suraj.k.25@gmail.com> (http://www.surajkrishna.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajkrishna/pxtorem/issues"
+  },
+  "homepage": "https://github.com/surajkrishna/pxtorem#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
