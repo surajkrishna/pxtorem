@@ -14,10 +14,14 @@ A small library that convert pixel to rem
 
 ## Usage
 
+Common JS
 var pxtorem = required('@surajkrishna/pxtorem');
 
+Modules
+import pxtorem from "@surajkrishna/pxtorem";
+
 inside styled component css/js file
-font-size: pxtorem(24);
+`font-size: ${pxtorem(24)}`
 
 Output should be `font-size: 1.5rem`
 
